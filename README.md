@@ -1,7 +1,7 @@
 # ChatGPT 中文版：国内最新 GPT 镜像网站使用指南（支持 GPT-5、GPT-4o、GPT-o3、GPT-o4，无需翻墙）【10月最新更新】
 
 <p align="center">
-  <img src="https://img.shields.io/badge/最后更新-2024年10月-blue.svg" alt="最后更新">
+  <img src="https://img.shields.io/badge/最后更新-2025年10月-blue.svg" alt="最后更新">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
   <a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg" alt="License"></a>
 </p>
